@@ -12,3 +12,5 @@ The purpose of this project is to expand the [Multilingual GoEmotions](https://h
 
 **New supported languages**
 - Italian -> IT
+
+You can find the generated dataset on [Hugging Face](https://huggingface.co/datasets/43ntropy/synthlangs-goemotions)
